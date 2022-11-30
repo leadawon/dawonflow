@@ -34,4 +34,4 @@ def XOR(x1,x2):
     y= AND(s1,s2)
     return y
 
-print(np.version.version)
+
