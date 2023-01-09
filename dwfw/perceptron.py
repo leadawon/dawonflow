@@ -1,5 +1,5 @@
 import numpy as np
-
+# test commit
 def AND(x1,x2,w1=0.5,w2=0.5,theta=0.7):
     w1,w2,theta = 0.5,0.5,0.7
     tmp = x1*w1 + x2*w2
